@@ -4,12 +4,13 @@ Desafio: classificador de nível do herói do Felipão da DIO!
 
 ## Informações:
 
-Fiz algumas alterações em relação aos nomes, por exemplo: o nível eu classifiquei como LVL, mas utilizei isso principalmente por ter criado uma variável como nome "nivel" para poder classificar a ordem dos meus switchs. Além disso, mudei a experiência necessária de acordo com cada LVL, principalmente por conter um GAP nos números, por exemplo:
+Fiz algumas alterações em relação aos nomes, por exemplo: o "nivel" eu classifiquei como LVL, mas utilizei isso principalmente por ter criado uma variável com o nome esse nome (nivel) para poder classificar a ordem do meu switch case. Além disso, mudei a experiência necessária de acordo com cada LVL, principalmente por conter um "GAP" nos números, por exemplo:
 
 Se XP for entre 2.001 e 5.000 = Prata
+
 Se XP for entre 6.001 e 7.000 = Ouro
 
-Nesse caso há um GAP entre 5001 e 6000, então modifiquei os valores necessários para cada elo/nivel.
+Nesse caso há um "GAP" entre 5001 e 6000, então modifiquei os valores necessários para cada LVL/nivel.
 
 ## Declarações pessoais:
 
